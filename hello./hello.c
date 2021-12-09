@@ -3,5 +3,5 @@ void main()
 {
     printf("Hello World...!!!");
 
-    print("\inthis is the basic c program");
+    print("\nthis is the basic c program");
     
